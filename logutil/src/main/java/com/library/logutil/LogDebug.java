@@ -1,4 +1,4 @@
-package com.library.quickstart;
+package com.library.logutil;
 
 import android.util.Log;
 

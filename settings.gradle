@@ -1,3 +1,5 @@
+include ':errorutil'
+include ':logutil'
 include ':QuickStart'
 include ':app'
 rootProject.name = "Quick Start Sample"
