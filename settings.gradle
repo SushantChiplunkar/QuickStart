@@ -1,0 +1,3 @@
+include ':QuickStart'
+include ':app'
+rootProject.name = "Quick Start Sample"
